@@ -45,13 +45,13 @@ http://59.125.101.187:8504/http/61.221.81.94:8088/hls/73/815/ch49.m3u8
 #EXTINF:-1 tvg-id="6031" tvg-name="公视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="港澳台1",公视
 http://59.125.101.187:8505/http/61.221.81.94:8088/hls/73/815/ch50.m3u8
 #EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="港澳台1",国家地理
-http://59.125.101.187:8509/http/61.221.81.94:8088/hls/61/803/ch01.m3u8
+http://iptv.tvfix.org/hls/natlgeo.m3u8
 #EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="港澳台1",Discovery
 http://59.125.101.187:8510/http/61.221.81.94:8088/hls/71/813/ch44.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台1",旅游生活
 http://59.125.101.187:8570/http/61.221.81.94:8088/hls/70/812/ch38.m3u8
 #EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="港澳台1",动物星球
-http://59.125.101.187:8512/http/61.221.81.94:8088/hls/70/812/ch37.m3u8
+http://iptv.tvfix.org/hls/animal.m3u8
 #EXTINF:-1 tvg-id="6046" tvg-name="八大综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" group-title="港澳台1",八大综合
 http://59.125.101.187:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
 #EXTINF:-1 tvg-id="6172" tvg-name="亚洲旅游台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/asiatravel.png" group-title="港澳台1",亚洲旅游
