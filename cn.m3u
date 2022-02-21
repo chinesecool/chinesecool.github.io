@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视HD
 http://111.11.121.184:6610/030000001001/hdhunanstv/1.m3u8?channel-id=ystenlive
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视HD
@@ -100,65 +101,6 @@ http://111.11.121.184:6610/030000001001/tianjinstv/1.m3u8?channel-id=ystenlive
 http://111.11.121.184:6610/030000001001/xinjiangstv/1.m3u8?channel-id=ystenlive
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
 http://111.11.121.184:6610/030000001001/yunnanstv/1.m3u8?channel-id=ystenlive
-#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="卫视",哈哈炫动
-http://111.11.121.184:6610/030000001001/xuandongkaton/1.m3u8?channel-id=ystenlive
-#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="卫视",卡酷少儿
-http://111.11.121.184:6610/030000001001/kakukaton/1.m3u8?channel-id=ystenlive
-#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视
-http://111.11.121.184:6610/030000001001/xizangstv/1.m3u8?channel-id=ystenlive
-#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="卫视",中国教育1
-http://111.11.121.184:6610/030000001001/jiaoyutv/1.m3u8?channel-id=ystenlive
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",金鹰卡通
-http://111.11.121.184:6610/030000001001/jinyingkaton/1.m3u8?channel-id=ystenlive
-#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="卫视",优漫卡通
-http://111.11.121.184:6610/030000001001/youmankaton/1.m3u8?channel-id=ystenlive
-#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视
-http://111.11.121.184:6610/030000001001/jilinstv/1.m3u8?channel-id=ystenlive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",山东教育
-http://111.11.121.184:6610/030000001001/shandongjy/1.m3u8?channel-id=ystenlive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",精品大剧HD
-http://111.11.121.184:6610/030000001001/jdaju/1.m3u8?channel-id=ystenlive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",黑莓电影HD
-http://111.11.121.184:6610/030000001001/jdianying/1.m3u8?channel-id=ystenlive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",精品体育HD
-http://111.11.121.184:6610/030000001001/jtiyu/1.m3u8?channel-id=ystenlive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",黑莓电竞HD
-http://111.11.121.184:6610/030000001001/wmyx/1.m3u8?channel-id=ystenlive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",爱情喜剧HD
-http://111.11.121.184:6610/030000001001/aiqingxj/1.m3u8?channel-id=ystenlive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",古装剧场HD
-http://111.11.121.184:6610/030000001001/guzhuangjc/1.m3u8?channel-id=ystenlive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",动作电影HD
-http://111.11.121.184:6610/030000001001/dongzuody/1.m3u8?channel-id=ystenlive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",军旅剧场HD
-http://111.11.121.184:6610/030000001001/junlvjc/1.m3u8?channel-id=ystenlive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",海外剧场HD
-http://111.11.121.184:6610/030000001001/xiqumd/1.m3u8?channel-id=ystenlive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",家庭剧场HD
-http://111.11.121.184:6610/030000001001/jiatingjc/1.m3u8?channel-id=ystenlive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",黑莓动画HD
-http://111.11.121.184:6610/030000001001/donghuawg/1.m3u8?channel-id=ystenlive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",金牌综艺HD
-http://111.11.121.184:6610/030000001001/saishijx/1.m3u8?channel-id=ystenlive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",惊悚悬疑HD
-http://111.11.121.184:6610/030000001001/jingsongxy/1.m3u8?channel-id=ystenlive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",精品记录HD
-http://111.11.121.184:6610/030000001001/jingpinjl/1.m3u8?channel-id=ystenlive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",明星大片HD
-http://111.11.121.184:6610/030000001001/mingxingdp/1.m3u8?channel-id=ystenlive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",军事评论HD
-http://111.11.121.184:6610/030000001001/junshipl/1.m3u8?channel-id=ystenlive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",农业致富HD
-http://111.11.121.184:6610/030000001001/nongyezf/1.m3u8?channel-id=ystenlive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",潮妈辣婆HD
-http://111.11.121.184:6610/030000001001/HD-1500k-720P-cmlapo/1.m3u8?channel-id=ystenlive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",健康有约HD
-http://111.11.121.184:6610/030000001001/ljiankangyouyue/1.m3u8?channel-id=ystenlive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",中国功夫HD
-http://111.11.121.184:6610/030000001001/SD-1500k-576P-gzkongfu/1.m3u8?channel-id=ystenlive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",搏击HD
-http://111.11.121.184:6610/030000001001/SD-1500k-576P-bokesen/1.m3u8?channel-id=ystenlive
-
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
 http://117.148.179.172/PLTV/88888888/224/3221231729/index.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
@@ -299,6 +241,65 @@ http://117.148.179.136/PLTV/88888888/224/3221231480/index.m3u8
 http://117.148.179.36/PLTV/88888888/224/3221229065/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",法治天地
 http://117.148.179.182/PLTV/88888888/224/3221231597/index.m3u8
+#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="卫视",哈哈炫动
+http://111.11.121.184:6610/030000001001/xuandongkaton/1.m3u8?channel-id=ystenlive
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="卫视",卡酷少儿
+http://111.11.121.184:6610/030000001001/kakukaton/1.m3u8?channel-id=ystenlive
+#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视
+http://111.11.121.184:6610/030000001001/xizangstv/1.m3u8?channel-id=ystenlive
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="卫视",中国教育1
+http://111.11.121.184:6610/030000001001/jiaoyutv/1.m3u8?channel-id=ystenlive
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",金鹰卡通
+http://111.11.121.184:6610/030000001001/jinyingkaton/1.m3u8?channel-id=ystenlive
+#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="卫视",优漫卡通
+http://111.11.121.184:6610/030000001001/youmankaton/1.m3u8?channel-id=ystenlive
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视
+http://111.11.121.184:6610/030000001001/jilinstv/1.m3u8?channel-id=ystenlive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",山东教育
+http://111.11.121.184:6610/030000001001/shandongjy/1.m3u8?channel-id=ystenlive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",精品大剧HD
+http://111.11.121.184:6610/030000001001/jdaju/1.m3u8?channel-id=ystenlive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",黑莓电影HD
+http://111.11.121.184:6610/030000001001/jdianying/1.m3u8?channel-id=ystenlive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",精品体育HD
+http://111.11.121.184:6610/030000001001/jtiyu/1.m3u8?channel-id=ystenlive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",黑莓电竞HD
+http://111.11.121.184:6610/030000001001/wmyx/1.m3u8?channel-id=ystenlive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",爱情喜剧HD
+http://111.11.121.184:6610/030000001001/aiqingxj/1.m3u8?channel-id=ystenlive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",古装剧场HD
+http://111.11.121.184:6610/030000001001/guzhuangjc/1.m3u8?channel-id=ystenlive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",动作电影HD
+http://111.11.121.184:6610/030000001001/dongzuody/1.m3u8?channel-id=ystenlive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",军旅剧场HD
+http://111.11.121.184:6610/030000001001/junlvjc/1.m3u8?channel-id=ystenlive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",海外剧场HD
+http://111.11.121.184:6610/030000001001/xiqumd/1.m3u8?channel-id=ystenlive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",家庭剧场HD
+http://111.11.121.184:6610/030000001001/jiatingjc/1.m3u8?channel-id=ystenlive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",黑莓动画HD
+http://111.11.121.184:6610/030000001001/donghuawg/1.m3u8?channel-id=ystenlive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",金牌综艺HD
+http://111.11.121.184:6610/030000001001/saishijx/1.m3u8?channel-id=ystenlive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",惊悚悬疑HD
+http://111.11.121.184:6610/030000001001/jingsongxy/1.m3u8?channel-id=ystenlive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",精品记录HD
+http://111.11.121.184:6610/030000001001/jingpinjl/1.m3u8?channel-id=ystenlive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",明星大片HD
+http://111.11.121.184:6610/030000001001/mingxingdp/1.m3u8?channel-id=ystenlive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",军事评论HD
+http://111.11.121.184:6610/030000001001/junshipl/1.m3u8?channel-id=ystenlive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",农业致富HD
+http://111.11.121.184:6610/030000001001/nongyezf/1.m3u8?channel-id=ystenlive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",潮妈辣婆HD
+http://111.11.121.184:6610/030000001001/HD-1500k-720P-cmlapo/1.m3u8?channel-id=ystenlive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",健康有约HD
+http://111.11.121.184:6610/030000001001/ljiankangyouyue/1.m3u8?channel-id=ystenlive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",中国功夫HD
+http://111.11.121.184:6610/030000001001/SD-1500k-576P-gzkongfu/1.m3u8?channel-id=ystenlive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",搏击HD
+http://111.11.121.184:6610/030000001001/SD-1500k-576P-bokesen/1.m3u8?channel-id=ystenlive
+
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1HD
 http://111.11.121.184:6610/030000001001/HD-4000k-1080P-cctv1/1.m3u8?channel-id=ystenlive
