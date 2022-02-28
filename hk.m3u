@@ -66,7 +66,8 @@ http://iptv.tvfix.org/hls/animax.m3u8
 
 #EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="港澳台",国家地理
 http://iptv.tvfix.org/hls/natlgeo.m3u8
-
+#EXTINF:-1 tvg-id="691" tvg-name="探索频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="港澳台",探索频道
+http://iptv.tvfix.org/hls/discovery.m3u8
 #EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="港澳台",动物星球
 http://iptv.tvfix.org/hls/animal.m3u8
 
