@@ -79,8 +79,6 @@ http://50.7.218.42:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196
 http://50.7.218.42:8278/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc8259c12219783&ct=17877&tsum=b8470668b7a41d6b15a90b7aa43b3279#http://50.7.218.42:8278/discoveryturbo_twn/playlist.m3u8?tid=MECE3122352031223520&ct=18393&tsum=66f49d6631e9a76ea563d20a25e0bd4c
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",探索科学台
 http://50.7.218.42:8278/discoverysc_twn/playlist.m3u8?tid=mc6599c2e8abf17200438&ct=17877&tsum=04c82c404888445ec55711287ad6b21b#http://50.7.218.42:8278/discoverysc_twn/playlist.m3u8?tid=MECE1045237810452378&ct=18393&tsum=806a4803bc2c402750bf7fde4daaf50e
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",探索家庭台
-http://50.7.218.42:8278/discoveryeve_twn/playlist.m3u8?tid=m6376c7d24ec312573043&ct=17877&tsum=14196552a8369d8e160a34dd40b4f4bd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",探索
 http://50.7.218.42:8278/discoverych_twn/playlist.m3u8?tid=MA3A2844188928441889&ct=18393&tsum=5b966ba17918ab0d7dd4c462d1b0b811
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",探索4k
