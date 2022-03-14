@@ -105,12 +105,6 @@ http://50.7.218.42:8278/hbohits_twn/playlist.m3u8?tid=ma34564be88dc14041284&ct=1
 http://50.7.218.42:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb#http://50.7.218.42:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
 #EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="港澳台",HBO
 http://50.7.218.42:8278/sundance_twn/playlist.m3u8?tid=mfe0bf4686c6d&ct=18335&tsum=14c57b1bfb62b277d396eb3cf14f26c6#http://50.7.218.42:8278/sundance_twn/playlist.m3u8?tid=ME8E6516348865163488&ct=18392&tsum=4b378b3dce57d990375dc63fa830c9a4#http://50.7.218.42:8278/sundance_twn/playlist.m3u8?tid=ME2E3028737630287376&ct=18392&tsum=c9d8507658c83110f8fdca428bae220b
-#EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="港澳台",HBO HD
-http://211.23.114.106:8511/http/116.50.42.19:8081/hls/71/813/ch41.m3u8
-#EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="港澳台",HBO HD
-http://211.23.114.106:8511/http/116.50.42.19:8081/hls/71/813/ch41.m3u8
-#EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="港澳台",HBO HD
-http://211.23.114.106:8511/http/116.50.42.19:8081/hls/71/813/ch41.m3u8
 #EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="港澳台",HBO
 http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?bycoca
 
