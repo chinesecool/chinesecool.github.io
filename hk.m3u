@@ -7,6 +7,20 @@ http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
 http://iptv.tvfix.org/hls/fhzw.m3u8
 
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台 (中英字幕)
+https://cdn.hkdtmb.com/hls/81b/index.m3u8
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="https://i.imgur.com/GyM0ORZ.png" group-title="港澳台",无线新闻台 
+https://cdn.hkdtmb.com/hls/83/index.m3u8
+#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",J2台 
+https://cdn.hkdtmb.com/hls/82/index.m3u8
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台",明珠台
+https://cdn.hkdtmb.com/hls/84/index.m3u8
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTV
+https://cdn.hkdtmb.com/hls/99/index.m3u8
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTV Six
+https://cdn.hkdtmb.com/hls/96/index.m3u8
+
+
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
 http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
@@ -61,6 +75,9 @@ http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?bycoc
 
 #EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="港澳台",东森新闻（外网）
 http://seb.sason.top/sc/dsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="港澳台",东森新闻
+http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
+
 #EXTINF:-1 tvg-id="6069" tvg-name="中天新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="港澳台",中天新闻(外网)
 http://seb.sason.top/sc/ztxw_fhd.m3u8
 
