@@ -25,6 +25,17 @@ http://59.125.101.187:8581/http/61.221.81.94:8088/hls/70/812/ch40.m3u8
 #EXTINF:-1 tvg-id="6043" tvg-name="东森幼幼台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCYoYoTV.png" group-title="港澳台",东森幼幼
 http://59.125.101.187:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8
 
+
+#EXTINF:-1 tvg-id="427" tvg-name="国家地理野生频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png" group-title="港澳台",国家地理野生频道1
+http://iptv.tvfix.org/hls/animal.m3u8
+#EXTINF:-1 tvg-id="427" tvg-name="国家地理野生频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png" group-title="港澳台",国家地理野生频道2
+http://iptv.tvfix.org/hls/animal2.m3u8
+#EXTINF:-1 tvg-id="427" tvg-name="国家地理野生频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png" group-title="港澳台",国家地理野生频道3
+http://50.7.218.42:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8#http://50.7.218.42:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct=18393&tsum=b276f2598186cdc8f4c513d89bfc2032
+#EXTINF:-1 tvg-id="6036" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NationalGeographic.png" group-title="港澳台",国家地理
+http://iptv.tvfix.org/hls/natlgeo.m3u8
+#EXTINF:-1 tvg-id="6036" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NationalGeographic.png" group-title="港澳台",国家地理
+http://iptv.tvfix.org/hls/natlgeo2.m3u8
 #EXTINF:-1 tvg-id="6036" tvg-name="国家地理频道(台湾)" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NationalGeographic_taiwan.png" group-title="港澳台",国家地理台湾
 http://50.7.218.42:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d#http://50.7.218.42:8278/natgeohd_twn/playlist.m3u8?tid=MB5B4841803948418039&ct=18393&tsum=a2343b2c061fc9de3fa7857e832d9625
 
@@ -39,15 +50,6 @@ http://50.7.218.42:8278/discoverysc_twn/playlist.m3u8?tid=mc6599c2e8abf17200438&
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",探索
 http://50.7.218.42:8278/discoverych_twn/playlist.m3u8?tid=MA3A2844188928441889&ct=18393&tsum=5b966ba17918ab0d7dd4c462d1b0b811
 
-
-#EXTINF:-1 tvg-id="427" tvg-name="国家地理野生频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png" group-title="港澳台",国家地理野生频道1
-http://iptv.tvfix.org/hls/animal.m3u8
-#EXTINF:-1 tvg-id="427" tvg-name="国家地理野生频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png" group-title="港澳台",国家地理野生频道2
-http://iptv.tvfix.org/hls/animal2.m3u8
-#EXTINF:-1 tvg-id="427" tvg-name="国家地理野生频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png" group-title="港澳台",国家地理野生频道3
-http://50.7.218.42:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8#http://50.7.218.42:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct=18393&tsum=b276f2598186cdc8f4c513d89bfc2032
-
-
 #EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="港澳台",东森电影台
 http://50.7.218.42:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
 #EXTINF:-1 tvg-id="6081" tvg-name="纬来电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMovies.png" group-title="港澳台",纬来电影台
@@ -60,6 +62,7 @@ http://50.7.218.42:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=1
 http://50.7.218.42:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3#http://50.7.218.42:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
 #EXTINF:-1 tvg-id="6089" tvg-name="CINEMAX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CinemaxHD.png" group-title="港澳台",CINEMAX
 http://50.7.218.42:8278/cinemax_twn/playlist.m3u8?tid=mf18038aaba6311485855&ct=17874&tsum=63ee6bcdb705ee72ea3d0f0d84ed6df1#http://50.7.218.42:8278/cinemax_twn/playlist.m3u8?tid=MEAE1417577214175772&ct=18392&tsum=5d6639abf9c0be1bdb8ded47c91e3af7
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",HBO家庭
 http://50.7.218.42:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853#http://50.7.218.42:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
 #EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="港澳台",HBO-HD
