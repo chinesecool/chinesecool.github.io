@@ -25,6 +25,8 @@ http://59.125.101.187:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8
 #EXTINF:-1 group-title="港澳台",CNN新闻台 
 http://iptv.tvfix.org/hls/cnn.m3u8
 
+#EXTINF:-1 tvg-id="427" tvg-name="NBA频道"  group-title="港澳台",NBA频道
+http://iptv.tvfix.org/hls/nbatv.m3u8
 #EXTINF:-1 tvg-id="427" tvg-name="国家地理野生频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png" group-title="港澳台",国家地理野生频道1
 http://iptv.tvfix.org/hls/animal.m3u8
 #EXTINF:-1 tvg-id="427" tvg-name="国家地理野生频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png" group-title="港澳台",国家地理野生频道2
