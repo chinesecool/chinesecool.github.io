@@ -4,6 +4,8 @@
 http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
 #EXTINF:-1,CCTV-5体育 
 http://39.134.115.163:8080/PLTV/88888910/224/3221225648/index.m3u8
+#EXTINF:-1,CCTV-5体育
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000064
 
 #EXTINF:-1,CCTV-5+体育赛事 
 http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
@@ -13,3 +15,26 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225706/index.m3u8
 http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
 #EXTINF:-1,CCTV-5+体育赛事 
 http://117.169.120.132:8080/live/hdcctv05plus/playlist.m3u8
+#EXTINF:-1,CCTV-5+体育赛事
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000246
+
+#EXTINF:-1,凤凰资讯
+http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8?zgangd
+#EXTINF:-1,凤凰资讯
+http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv1.m3u8?zgangd
+#EXTINF:-1,凤凰资讯
+http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8?zgangd
+#EXTINF:-1,凤凰资讯
+http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8?zgangd
+#EXTINF:-1,凤凰资讯
+http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8?zgangd
+#EXTINF:-1,凤凰资讯
+https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8?zgangd
+#EXTINF:-1,凤凰资讯
+https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8?zgangd
+#EXTINF:-1,凤凰资讯
+http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8?zgangd
+#EXTINF:-1,凤凰资讯
+http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8?zgangd
+#EXTINF:-1,凤凰资讯
+http://111.59.189.40:8445/tsfile/live/1021_1.m3u8?zgangd
